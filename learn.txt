@@ -3,3 +3,4 @@ git status is use to check file included at staging area
 add to staging area use git add filename
 to commit use git commit to add msg use -m ""
 to see changes use git log
+git add . add all
