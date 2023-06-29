@@ -4,3 +4,7 @@ add to staging area use git add filename
 to commit use git commit to add msg use -m ""
 to see changes use git log
 git add . add all
+check diff bet previous and curent save file before commiting use git diff filename
+checkout use to restore previous code git checkout filename .
+git remote add origin url use to add local repos
+and git push -u origin main use to add remote repos
