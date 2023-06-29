@@ -8,3 +8,7 @@ check diff bet previous and curent save file before commiting use git diff filen
 checkout use to restore previous code git checkout filename .
 git remote add origin url use to add local repos
 and git push -u origin main use to add remote repos
+
+git ignore  to ignore private file creare .gitignore file enter file name .DS_STORE and ... go to github/gitignore choose which project ex node open file copy and paste in .gitignore file and use git.add and then commit 
+learn branching merging 
+forking
